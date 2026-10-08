@@ -24,7 +24,7 @@ A 3x3 macro keypad with RGB backlighting, an optional rotary encoder and a littl
   <img src="Images/photo_side.jpg" width="49%" alt="Side view of the PCB sandwich">
 </p>
 
-## The 5 modes
+## The 5 modes from the sketch (you can change them as you like)
 
 Press the **mode button** to cycle through them. Each mode has its own LED colors, so you always know where you are.
 
