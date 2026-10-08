@@ -2,7 +2,9 @@
 
 A 3x3 macro keypad with RGB backlighting, an optional rotary encoder and a little display, powered by an **Arduino Pro Micro**. Nine keys, five modes, and enough shortcuts to make your coworkers think you've finally learned Excel.
 
-![Macro Keypad](Images/photo_closeup.jpg)
+<p align="center">
+  <img src="Images/photo_closeup.jpg)" width="400" alt="Macro Keypad">
+</p>
 
 > ### Check ALL the photos before you start!
 > Some components on this board are placed in unusual ways (the LEDs and the Pro Micro go on the **back** of the PCB). The photos and renders below are the assembly guide, so look at every one of them **before** you heat up the soldering iron. Desoldering a Pro Micro is not a fun weekend activity.
