@@ -103,7 +103,7 @@ Check all the photos first (yes, again). Then:
 
 1. Solder the **SK6812 Mini-E LEDs**, **diodes** and **resistors** on the main PCB.
 2. Solder the **Pro Micro on the back** of the PCB, as shown in the renders (please double/triple check the orientation).
-3. Push the **switches** through the top plate into the main PCB and solder them. (If you're using the encoder, it goes in place of switch 1.)
+3. Push the **switches** through the top plate and then into the main PCB and solder them. (If you're using the encoder, it goes in place of switch 1.)
 4. Add the **5mm spacers** between the main PCB and the **bottom plate**, and bolt the whole sandwich together with the **M3 screws and nuts**.
 5. Stick on the rubber feet, add keycaps, and flash the sketch.
 
