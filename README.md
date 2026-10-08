@@ -67,16 +67,33 @@ A mode for your favorite game, your video editor, Zoom meetings, or a button tha
   <img src="Images/render_pro_micro.png" width="40%" alt="Pro Micro placement">
 </p>
 
-## Extra parts you'll need
 
-- **Arduino Pro Micro** (ATmega32u4, 5V)
-- **9 or 10 MX-compatible switches** (the 10th one is the mode key), plus keycaps
-- **Optional:** EC11 rotary encoder + knob (replaces switch 1)
-- **Optional:** 0.91" 128x32 I2C OLED, or a 20x4 I2C LCD
+## Parts you'll need 🛒
+ 
+**From AliExpress** (not available on LCSC, so order these separately):
+ 
+- **Arduino Pro Micro** (ATmega32u4, **5V**, micro-USB or USB-C): [AliExpress](https://www.aliexpress.com/w/wholesale-pro-micro-atmega32u4.html)
+- **10x MX switches** (9 keys + the mode key) and keycaps: [AliExpress](https://www.aliexpress.com/w/wholesale-mx-switch.html)
+- **10x SK6812 MINI-E RGB LEDs**: [AliExpress](https://www.aliexpress.com/w/wholesale-sk6812-mini-e.html)
+- **Optional:** 0.91" SSD1306 128x32 OLED display: [AliExpress](https://www.aliexpress.com/w/wholesale-ssd1306-oled--0.91-display-128x64-.html), or a 20x4 I2C LCD
+**From LCSC:**
+ 
+| Part | Component | Qty | LCSC |
+|---|---|---|---|
+| Diodes | 1N4148W (SOD-123) | 9 | [C369920](https://www.lcsc.com/product-detail/C369920.html) |
+| Resistor | 1kΩ (0805) | 1 | [C149504](https://www.lcsc.com/product-detail/C149504.html) |
+| Resistor | 330Ω (0805) | 1 | [C105877](https://www.lcsc.com/product-detail/C105877.html) |
+| RST button | HRO K2-1102DP | 1 | [C136684](https://www.lcsc.com/product-detail/C136684.html) |
+| Rotary encoder (optional) | Bourns PEC11R-4015F-S0024 | 1 | [C143789](https://www.lcsc.com/product-detail/C143789.html) |
+ 
+Full BOM: [`BOM_Macro_Keypad.csv`](BOM_Macro_Keypad.csv) (also in the **GERBER, BOM** folder).
+ 
+**Mechanical parts:**
+ 
 - **5mm spacers** between the bottom plate and the main PCB
 - **5x M3 screws (10–12mm)** and **5x M3 nuts**
-- Rubber feet for the bottom plate (optional, but your desk will thank you)
-
+- A knob for the encoder, and rubber feet for the bottom plate (optional, but your desk will thank you)
+  
 ![Switch](Images/switch.png)
 
 ## Assembly
