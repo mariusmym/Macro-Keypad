@@ -86,7 +86,7 @@ A mode for your favorite game, your video editor, Zoom meetings, or a button tha
 | RST button | HRO K2-1102DP | 1 | [C136684](https://www.lcsc.com/product-detail/C136684.html) |
 | Rotary encoder (optional) | Bourns PEC11R-4015F-S0024 | 1 | [C143789](https://www.lcsc.com/product-detail/C143789.html) |
  
-Full BOM: [`BOM_Macro_Keypad.csv`](BOM_Macro_Keypad.csv) (also in the **GERBER, BOM** folder).
+Full BOM: [`BOM_macroKeypad.csv`](BOM_macroKeypad.csv) (also in the **GERBER, BOM** folder).
  
 **Mechanical parts:**
  
