@@ -81,11 +81,11 @@ A mode for your favorite game, your video editor, Zoom meetings, or a button tha
  
 | Part | Component | Qty | LCSC |
 |---|---|---|---|
-| Diodes | 1N4148W (SOD-123) | 9 | [C369920](https://www.lcsc.com/product-detail/C369920.html) |
-| Resistor | 1kΩ (0805) | 1 | [C149504](https://www.lcsc.com/product-detail/C149504.html) |
-| Resistor | 330Ω (0805) | 1 | [C105877](https://www.lcsc.com/product-detail/C105877.html) |
-| RST button | HRO K2-1102DP | 1 | [C136684](https://www.lcsc.com/product-detail/C136684.html) |
-| Rotary encoder (optional) | Bourns PEC11R-4015F-S0024 | 1 | [C143789](https://www.lcsc.com/product-detail/C143789.html) |
+| Diodes | 1N4148W (SOD-123) | 9 | C369920 |
+| Resistor | 1kΩ (0805) | 1 | C149504 |
+| Resistor | 330Ω (0805) | 1 | C105877 |
+| RST button | HRO K2-1102DP | 1 | C136684 |
+| Rotary encoder (optional) | Bourns PEC11R-4015F-S0024 | 1 | C143789 |
  
 Full BOM: [`BOM_macroKeypad.csv`](/GERBER%2C%20BOM/BOM_macroKeypad.csv) (also in the **GERBER, BOM** folder).
  
