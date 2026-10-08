@@ -3,7 +3,7 @@
 A 3x3 macro keypad with RGB backlighting, an optional rotary encoder and a little display, powered by an **Arduino Pro Micro**. Nine keys, five modes, and enough shortcuts to make your coworkers think you've finally learned Excel.
 
 <p align="center">
-  <img src="Images/photo_closeup.jpg)" width="400" alt="Macro Keypad">
+  <img src="Images/photo_closeup.jpg" width="500" alt="Macro Keypad">
 </p>
 
 > ### Check ALL the photos before you start!
