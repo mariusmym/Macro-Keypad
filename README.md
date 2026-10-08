@@ -36,7 +36,16 @@ Press the **mode button** to cycle through them. Each mode has its own LED color
 | **4. Numpad** | Classic numeric keypad (7-8-9 / 4-5-6 / 1-2-3), with a rainbow effect | `0` / `000` |
 | **5. Mouse mover** | Moves the mouse back and forth automatically, so your PC never goes to sleep. *You know what it's for.* 😏 | – |
 
-Mode 5 is strictly for keeping your screen awake during long downloads. Obviously.
+Mode 5 is strictly for keeping your screen awake during long downloads. Obviously... And if the IT department at work ever asks what's with the Arduino plugged into your PC, just tell them it's for the numpad. Everybody knows a mechanical numpad is always better. 
+
+### Add your own modes ➕
+ 
+Five modes are just the starting point. Adding one takes three steps:
+ 
+1. In `loop()`, add a new `case 5:` to the `switch (modePushCounter)` block, with your own key actions (copy one of the existing modes and edit it).
+2. In `checkModeButton()`, raise the limit in `if (modePushCounter > 4)` to match the number of modes (e.g. `> 5` for six modes).
+3. Optionally, give it its own LED colors with `setColorsModeHUE(...)` and its own screen text, like the other modes.
+A mode for your favorite game, your video editor, Zoom meetings, or a button that just types "LGTM" – it's your keypad.
 
 ## IMPORTANT INFORMATIONS !
 
