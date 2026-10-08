@@ -45,7 +45,10 @@ Five modes are just the starting point. Adding one takes three steps:
 1. In `loop()`, add a new `case 5:` to the `switch (modePushCounter)` block, with your own key actions (copy one of the existing modes and edit it).
 2. In `checkModeButton()`, raise the limit in `if (modePushCounter > 4)` to match the number of modes (e.g. `> 5` for six modes).
 3. Optionally, give it its own LED colors with `setColorsModeHUE(...)` and its own screen text, like the other modes.
+   
 A mode for your favorite game, your video editor, Zoom meetings, or a button that just types "LGTM" – it's your keypad.
+ 
+**Too lazy for steps 1–3?** Upload `MacroKeypad_sketch.ino` to Claude or ChatGPT and just tell it what you want, something like *"add a 6th mode for DaVinci Resolve with cut, ripple delete and play/pause, purple LEDs"*. It'll hand you back the updated sketch. Then flash it, test it, and pretend you wrote it yourself.
 
 ## IMPORTANT INFORMATIONS !
 
