@@ -141,9 +141,9 @@ Check all the photos first (yes, again). Then:
 
 ### Make it yours
 
-Every key in every mode is a simple `case` in the sketch, so changing a shortcut takes about 30 seconds. The comment block at the top of the sketch explains `Keyboard.press()`, `Keyboard.print()`, `Mouse.move()` and friends. One button that types your 40-character password is just one `Keyboard.println()` away (we didn't recommend it, you came up with it yourself).
+Every key in every mode is a simple `case` in the sketch, so changing a shortcut takes about 30 seconds. The comment block at the top of the sketch explains `Keyboard.press()`, `Keyboard.print()`, `Mouse.move()` and friends. One button that types your 40-character password is just one `Keyboard.println()` away (I didn't recommend it, you came up with it yourself).
 
-The keypad can also run **QMK**, but you'll lose the display functionality.
+The keypad can also run **QMK**, but you'll lose the display functionality (as far as I know).
 
 ![Close-up](Images/photo_fkeys.jpg)
 
@@ -151,14 +151,10 @@ The keypad can also run **QMK**, but you'll lose the display functionality.
 
 - **GERBER, BOM** – Gerbers for the **main PCB**, the **top plate** and the **bottom plate**, plus the BOM. (No PNP file, see above.)
 - **SCHEMATIC** – the schematic in PDF.
-- **SKETCH** – the Arduino sketch (v3.4.3) with all 5 modes.
+- **SKETCH** – the Arduino sketch with all 5 modes.
 - **Images** – renders and photos. **Look at all of them!**
 
 ![Bottom](Images/photo_bottom.jpg)
-
-## If you want to edit the PCB
-
-**Project can also be found here:** https://www.pcbway.com/project/shareproject/Macro_Keypad_8f98031d.html
 
 ## Credits
 
