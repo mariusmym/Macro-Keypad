@@ -68,7 +68,7 @@ A mode for your favorite game, your video editor, Zoom meetings, or a button tha
 </p>
 
 
-## Parts you'll need 🛒
+## Parts you'll need
  
 **From AliExpress** (not available on LCSC, so order these separately):
  
