@@ -75,7 +75,8 @@ A mode for your favorite game, your video editor, Zoom meetings, or a button tha
 - **Arduino Pro Micro** (ATmega32u4, **5V**, micro-USB or USB-C): [AliExpress](https://www.aliexpress.com/w/wholesale-pro-micro-atmega32u4.html)
 - **10x MX switches** (9 keys + the mode key) and keycaps: [AliExpress](https://www.aliexpress.com/w/wholesale-mx-switch.html)
 - **10x SK6812 MINI-E RGB LEDs**: [AliExpress](https://www.aliexpress.com/w/wholesale-sk6812-mini-e.html)
-- **Optional:** 0.91" SSD1306 128x32 OLED display: [AliExpress](https://www.aliexpress.com/w/wholesale-ssd1306-oled--0.91-display-128x64-.html), or a 20x4 I2C LCD
+- **Optional:** 0.91" SSD1306 128x32 OLED display: [AliExpress](https://www.aliexpress.com/w/wholesale-ssd1306-oled--0.91-display-128x64-.html), or a 20x4 I2C LCD [AliExpress](https://www.aliexpress.com/w/wholesale-20x4-lcd-display.html).
+- 
 **From LCSC:**
  
 | Part | Component | Qty | LCSC |
