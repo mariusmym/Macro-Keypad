@@ -101,9 +101,9 @@ Full BOM: [`BOM_macroKeypad.csv`](/GERBER%2C%20BOM/BOM_macroKeypad.csv) (also in
 
 Check all the photos first (yes, again). Then:
 
-1. Solder the **SK6812 Mini-E LEDs** and the other SMD parts on the main PCB.
-2. Solder the **Pro Micro on the back** of the PCB, as shown in the renders.
-3. Fit the **top plate**, then push the **switches** through the top plate into the main PCB and solder them. (If you're using the encoder, it goes in place of switch 1.)
+1. Solder the **SK6812 Mini-E LEDs**, **diodes** and **resistors** on the main PCB.
+2. Solder the **Pro Micro on the back** of the PCB, as shown in the renders (please double/triple check).
+3. Push the **switches** through the top plate into the main PCB and solder them. (If you're using the encoder, it goes in place of switch 1.)
 4. Add the **5mm spacers** between the main PCB and the **bottom plate**, and bolt the whole sandwich together with the **M3 screws and nuts**.
 5. Stick on the rubber feet, add keycaps, and flash the sketch.
 
